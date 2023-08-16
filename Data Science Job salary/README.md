@@ -35,11 +35,11 @@ Job title for expereince level
 
 Co-relation b/w experience level salary and job title for 2020, 2021 and 2022 respectively
 
-![Co-relation for 2020](img/corel_experience_level_salary_job_title_2020)
+![Co-relation for 2020](img/corel_experience_level_salary_job_title_2020.jpg)
 
-![Co-relation for 2021](img/corel_experience_level_salary_job_title_2021)
+![Co-relation for 2021](img/corel_experience_level_salary_job_title_2021.jpg)
 
-![Co-relation for 2022](img/corel_experience_level_salary_job_title_2022)
+![Co-relation for 2022](img/corel_experience_level_salary_job_title_2022.jpg)
 
 
 ## Conclusion
