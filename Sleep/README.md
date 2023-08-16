@@ -28,10 +28,6 @@ Jointplot fot sleep v/s time in bed
 
 From all the above Analysis and Visualization we can cleary conclude that, A Person Who Sleeps Better(i.e, in between 6 to 8 hours) and has possitive self affirmations (which may also include drinking coffee) will have a higher sleep quality. Additionally the notion of "Early to bed, early to rise; makes you wealthy and wise" turns to be true as the best sleep quality if for those who slept between 9PM and 5AM
 
-## The web-link.
-
-[link](https://np56fwffryq7zxqdjzqrxk.streamlit.app/)
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
