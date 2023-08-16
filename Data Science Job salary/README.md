@@ -14,6 +14,34 @@ But it's not just the foundational roles seeing an upswing; leadership positions
 
 This crescendo in data-centric roles epitomizes the inexorable shift towards a data-anchored global landscape. As firms amplify their reliance on data for a competitive vantage, the trajectory for these professions seems steeply upward. Those seeking a resilient career path would find the vast horizons of data science and its auxiliary domains exceptionally promising.
 
+
+## Quick summary of the result
+
+Barplot distribution for the job title
+
+![Barplot distribution](img/Barplot_for_job_title.jpg)
+
+Pie distribution for particular level of experience
+
+![Pie distribution](img/Pie_for_experience_level.jpg)
+
+Remote Work distribution
+
+![Remote Work](img/Remote_Work_distribution.jpg)
+
+Job title for expereince level
+
+![Job Title](img/Job_title_expereince_level.jpg)
+
+Co-relation b/w experience level salary and job title for 2020, 2021 and 2022 respectively
+
+![Co-relation for 2020](img/corel_experience_level_salary_job_title_2020)
+
+![Co-relation for 2021](img/corel_experience_level_salary_job_title_2021)
+
+![Co-relation for 2022](img/corel_experience_level_salary_job_title_2022)
+
+
 ## Conclusion
 
 The prominence of data science roles is on a marked rise. 
