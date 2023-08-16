@@ -1,4 +1,4 @@
-# This is a project to determine how the salary of data science jobs.
+# Why I did this project
 
 In the contemporary business era, data has ascended as an integral pivot shaping decisions across industries. The World Economic Forum anticipates that by 2025, daily global data production will reach a staggering 463 exabytes. This boom underscores the burgeoning demand for experts adept at navigating and deciphering this expansive data sea, consequently amplifying roles such as data scientists, machine learning engineers, and big data engineers.
 
@@ -13,6 +13,26 @@ At the helm of data structures stands the data architect, tasked with crafting d
 But it's not just the foundational roles seeing an upswing; leadership positions like the principle data scientist are also gaining traction. Such individuals meld technical prowess with a strategic acumen, navigating both the granular realms of data and orchestrating teams towards overarching business goals.
 
 This crescendo in data-centric roles epitomizes the inexorable shift towards a data-anchored global landscape. As firms amplify their reliance on data for a competitive vantage, the trajectory for these professions seems steeply upward. Those seeking a resilient career path would find the vast horizons of data science and its auxiliary domains exceptionally promising.
+
+## Conclusion
+
+The prominence of data science roles is on a marked rise. 
+
+For professionals eyeing the zenith of pay scales, the United States emerges as the front-runner. However, it's essential to contextualize this perspective. While the U.S. does offer higher salaries, a holistic understanding would entail examining factors like the cost of living, healthcare provisions, and more.
+
+Larger and medium-sized companies tend to be more generous with compensation compared to their smaller counterparts.
+
+As we stride into 2022, contract-based and full-time positions appear to be the most lucrative employment types.
+
+Roles like Data Engineers, Data Scientists, and Machine Learning Engineers stand out, commanding noteworthy average salaries, showcasing their market value.
+
+The ascendancy of remote positions is evident, both in terms of popularity and pay scale. This shift could arguably be attributed to the recent pandemic.
+
+A significant uptick in salary can be observed as one transitions into senior-level roles.
+
+It's imperative to note that a substantial portion of our dataset originates from the U.S., where wages are notably higher than in other nations. Consequently, the presented average salaries might not be truly representative of global trends. Using them as a yardstick for global salary expectations might be misleading.
+
+Concluding from the analysis, venturing into a data science-centric career path seems promising, especially considering the salary prospects and flexibility of remote work.
 
 ## License
 
